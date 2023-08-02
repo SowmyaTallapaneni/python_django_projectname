@@ -1,2 +1,2 @@
 # python_django_projectname
-A website for 
+To develop website
